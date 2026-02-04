@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS and Gsap**
 
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/nitesh-kumar-b94350306)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nitesh-kumar-b94350306)
 
 <h2 align="left">Skillset</h2>
 
@@ -79,7 +79,7 @@
         <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height="40" title="GitHub" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/www.linkedin.com/in/nitesh-kumar-b94350306">
+    <a href="www.linkedin.com/in/nitesh-kumar-b94350306">
         <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" title="LinkedIn" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
