@@ -2,16 +2,16 @@
     <h1>Nitesh kumar</h1>
 </p>
 
-<h3 align="left">
-  I am a B.Tech student at Rungta College of Engineering and Technology,in Computer Science. My passion lies in coding, problem-solving, and exploring new technologies to build impactful solutions.
-  Currently, I am learning web development using the MERN stack (MongoDB, Express.js, React.js, Node.js) and actively seeking opportunities to contribute to open-source projects. I thrive on collaboration and innovation, constantly pushing boundaries to create dynamic and scalable applications.
-</h3>
+<h2 align="left">
+  I am a B.Tech student in Computer Science at Rungta College of Engineering and Technology, driven by a strong interest in coding, logical problem-solving, and discovering emerging technologies to create meaningful solutions. I am currently developing my skills in web development with the MERN stack (MongoDB, Express.js, React.js, and Node.js). I enjoy working in collaborative environments and embrace innovation, always striving to push limits and build efficient, scalable, and interactive applications.
+</h2>
 
 <h2 align="left">Some Facts About Me</h2>
 
 - 🌱 I’m currently learning **React JS and Gsap**
 
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nitesh-kumar-b94350306/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-b94350306/)
+
 
 <h2 align="left">Skillset</h2>
 
@@ -31,8 +31,6 @@
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width="40" height="40" title="ReactJS" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/bootstrap.svg" width="40" height="40" title="Bootstrap" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width="40" height="40" title="HTML" />
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,8 +56,6 @@
 
 <h3 align="left">Softwares:</h3>
 <p align="left">
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width="40" height="40" title="Figma" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width="40" height="40" title="Postman" />
 </p>
 
@@ -70,11 +66,8 @@
 
 <h2 align="left">Connect with Me</h2>
 <p align="left">
-    <a href="https://github.com/Nitesh-7533">
-        <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height="40" title="GitHub" />
-    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="www.linkedin.com/in/nitesh-kumar-b94350306/">
+    <a href="(https://www.linkedin.com/in/nitesh-kumar-b94350306/)">
         <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" title="LinkedIn" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
