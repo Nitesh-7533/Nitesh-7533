@@ -1,20 +1,89 @@
-<h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="coding" width="400"  src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-7533&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-7533" /> </p>
-
-- 📫 How to reach me **nkumar49575@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nitesh-kumar-b94350306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nitesh-kumar-b94350306" height="30" width="40" /></a>
+<p>
+    <h1>Nitesh kumar</h1>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="left">
+  I am a B.Tech student at Rungta College of Engineering and Technology,in Computer Science. My passion lies in coding, problem-solving, and exploring new technologies to build impactful solutions.
+  Currently, I am learning web development using the MERN stack (MongoDB, Express.js, React.js, Node.js) and actively seeking opportunities to contribute to open-source projects. I thrive on collaboration and innovation, constantly pushing boundaries to create dynamic and scalable applications.
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh-7533&show_icons=true&locale=en&layout=compact" alt="nitesh-7533" /></p>
+<h2 align="left">Some Facts About Me</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitesh-7533&show_icons=true&locale=en" alt="nitesh-7533" /></p>
+- 🌱 I’m currently learning **React JS and Gsap**
+
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/nitesh-kumar-b94350306)
+
+<h2 align="left">Skillset</h2>
+
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width="40" height="40" title="C" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width="40" height="40" title="Java" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width="40" height="40" title="JavaScript" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width="40" height="40" title="Python" />
+</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokprasad573&show_icons=true&locale=en&layout=compact&theme=dark" />
+
+<h3 align="left">Frontend Development:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width="40" height="40" title="ReactJS" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/bootstrap.svg" width="40" height="40" title="Bootstrap" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width="40" height="40" title="HTML" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width="40" height="40" title="CSS" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width="40" height="40" title="Tailwind" />
+</p>
+
+<h3 align="left">Backend Development:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width="40" height="40" title="Node.js" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width="40" height="40" title="Express.js" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<h3 align="left">Database Management:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width="40" height="40" title="MongoDB" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width="40" height="40" title="MySQL" />
+</p>
+
+<h3 align="left">Softwares:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width="40" height="40" title="Figma" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width="40" height="40" title="Postman" />
+</p>
+
+<h3 align="left">Static Site Generators:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/StaticSiteGenerators/nextjs.svg" width="40" height="40" title="Next.js" />
+</p>
+
+<h3 align="left">Others:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width="40" height="40" title="Git" />
+</p>
+
+<h2 align="left">Connect with Me</h2>
+<p align="left">
+    <a href="https://github.com/Nitesh-7533">
+        <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height="40" title="GitHub" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/www.linkedin.com/in/nitesh-kumar-b94350306">
+        <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" title="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/kushwahanitesh75/">
+        <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/instagram.svg" width="40" height="40" title="Instagram" />
+   
+</p>
