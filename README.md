@@ -63,11 +63,6 @@
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width="40" height="40" title="Postman" />
 </p>
 
-<h3 align="left">Static Site Generators:</h3>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/StaticSiteGenerators/nextjs.svg" width="40" height="40" title="Next.js" />
-</p>
-
 <h3 align="left">Others:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width="40" height="40" title="Git" />
